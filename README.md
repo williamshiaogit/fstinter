@@ -5,3 +5,4 @@
 #新手
 #請多指教
 #Python
+[![Run on Repl.it](https://repl.it/badge/github/williamshiaogit/fstinter)](https://repl.it/github/williamshiaogit/fstinter)
